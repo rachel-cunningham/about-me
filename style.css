@@ -1,1 +1,9 @@
 
+p {
+    display: flex;
+    justify-content: center;
+}
+.imageContainer {
+    display: flex;
+    justify-content: center;
+}
