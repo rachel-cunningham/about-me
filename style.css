@@ -9,13 +9,23 @@ imageContainer {
      height: 500px;
 }
 
-hr.style-seven {
+hr {
     overflow: visible;
     height: 30px;
     border-style: solid;
     border-color: #000505;
     border-width: 1px 0 0 0;
     border-radius: 20px;
+}
+.button {
+  background-color: #6A5C99;
+  border: none;
+  color: #003D3D;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
 }
 header > div > h1 {
   font-size: 70px;
