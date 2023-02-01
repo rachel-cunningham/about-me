@@ -1,20 +1,21 @@
-p, .imageContainer, header > div > h1, nav {
+.formatting {
+    font-family: 'Parmanent Marker';
     display: flex;
     justify-content: center;
-    font-family: 'Parmanent Marker';
 }
+
 imageContainer {
      width: 400px;
      height: 500px;
 }
 
-hr {
-    width: 420px;
-    height: 32px;
-    border: none;
-    margin-top: 30px;
-    margin-bottom: 20px;
-    color: #000505; 
+hr.style-seven {
+    overflow: visible;
+    height: 30px;
+    border-style: solid;
+    border-color: #000505;
+    border-width: 1px 0 0 0;
+    border-radius: 20px;
 }
 header > div > h1 {
   font-size: 70px;
