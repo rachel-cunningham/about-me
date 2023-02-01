@@ -17,7 +17,7 @@ hr {
     border-radius: 20px;
 }
 .button-style {
-  background-color: #6A5C99;
+  background-color: #A0A0BA;
   border: none;
   color: #003D3D;
   padding: 15px 32px;
@@ -34,7 +34,8 @@ header > div > h1 {
 nav {
   justify-content: space-evenly;
   font-size: 20px; 
-  font-family: 'Permanent Maker';	
+  font-family: 'Permanent Maker';
+  padding 20px;
 }
 a:link    { color: #000505;}
 a:visited { color: #61548C;}
