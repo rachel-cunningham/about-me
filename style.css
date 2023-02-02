@@ -13,6 +13,7 @@
 .imageContainer {
   display: flex;
   justify-content: center;
+  overflow: hidden;
 }
 
 hr {
@@ -42,7 +43,8 @@ body {
   background-color: #FEFCFD;
 }
 main {
-  padding: 40px;
+  max-width: fit-content;
+  margin: auto;
 }
 .links{
   display: flex;
@@ -57,4 +59,7 @@ main {
 }
 .link-box{
   width:100%;
+}
+.image{
+  object-fit: contain;
 }
