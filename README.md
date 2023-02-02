@@ -1,1 +1,2 @@
 # about-me
+In this project I wanted to implemnt what I have learned so far about html and css programming languages. The website is basic but incorporates using semantic containers of main, article, and footer. Also included are html elements of doctype, html, head, body, meta, title, h1, h2, h3, p, link, ul, ol, img, a, hr. Finally css prooperties of background, color, font-family, font-size,height, margin, padding, and text-align.
